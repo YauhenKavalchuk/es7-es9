@@ -13,17 +13,17 @@
 - [JavaScript brief history and ECMAScript(ES6,ES7,ES8,ES9) features](https://medium.com/@madasamy/javascript-brief-history-and-ecmascript-es6-es7-es8-features-673973394df4)
 
 ## Список уроков:
-- ES7-ES9 Features #0 Introduction
-- ES7-ES9 Features #1 Object.values() & Object.entries() & fromEntries()
-- ES7-ES9 Features #2 Object.getOwnPropertyDescriptors()
-- ES7-ES9 Features #3 Trailing commas & Exponentiation operator
-- ES7-ES9 Features #4 Async Functions
-- ES7-ES9 Features #5 Async Errors Handling & Promise "finally"
-- ES7-ES9 Features #6 Async Iterators
-- ES7-ES9 Features #7 Array.includes() & Array.flat() & Array.flatMap()
-- ES7-ES9 Features #8 String methods
-- ES7-ES9 Features #9 Function.toString() & Symbol description & JSON.stringify()
-- ES7-ES9 Features #10 RegExp features
+- #0 Introduction
+- #1 Object.values() & Object.entries() & fromEntries()
+- #2 Object.getOwnPropertyDescriptors()
+- #3 Trailing commas & Exponentiation operator
+- #4 Async Functions
+- #5 Async Errors Handling & Promise "finally"
+- #6 Async Iterators
+- #7 Array.includes() & Array.flat() & Array.flatMap()
+- #8 String methods
+- #9 Function.toString() & Symbol description & JSON.stringify()
+- #10 RegExp features
 
 ## Автор курса в социальных сетях:
 Social network | Link to Profile
